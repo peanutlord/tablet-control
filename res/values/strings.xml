@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Laptop Control</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="header1">Spotify</string>
+    <string name="current_song">Aktuelles Lied</string>
+    
+    <string name="prev_song">Previous Song</string>
+    <string name="next_song">Next Song</string>
+    
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    
+    <string name="quit">Quit Spotify</string>
+
+</resources>
